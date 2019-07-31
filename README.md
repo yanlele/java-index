@@ -25,6 +25,9 @@
 - [Java 泛型方法](https://www.w3cschool.cn/java/java-generic-method.html)
 - [Java自定义泛型方法](https://blog.csdn.net/lxxiang1/article/details/81293375)
 - [springboot接收json入参](https://blog.csdn.net/HXNLYW/article/details/80776491)
+  
+### 19.08.01
+- [Java 中各种DTO，POJO 等的概念](https://www.jianshu.com/p/c163e02c3d93)
 
 
 ### 经典待研究项目
