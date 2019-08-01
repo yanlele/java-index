@@ -27,7 +27,7 @@
 - [springboot接收json入参](https://blog.csdn.net/HXNLYW/article/details/80776491)
   
 ### 19.08.01
-- [Java 中各种DTO，POJO 等的概念](https://www.jianshu.com/p/c163e02c3d93)
+- [Java 中各种DTO，POJO 等的概念](19年/08月/02、Java%20中各种DTO，POJO%20等的概念/02、Java%20中各种DTO，POJO%20等的概念.md)
 
 
 ### 经典待研究项目
