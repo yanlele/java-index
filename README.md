@@ -29,6 +29,9 @@
 ### 19.08.01
 - [Java 中各种DTO，POJO 等的概念](19年/08月/02、Java%20中各种DTO，POJO%20等的概念/02、Java%20中各种DTO，POJO%20等的概念.md)
 
+### 19.08.02
+- [docker启动redis](https://blog.csdn.net/occultskyrong/article/details/85199926)
+
 
 ### 经典待研究项目
 - [SpringBoot-Shiro-Vue](https://github.com/Heeexy/SpringBoot-Shiro-Vue)
@@ -49,3 +52,7 @@
 - header、获取参数、json入参
 - @Component/@Bean 是啥子
 - 错误处理机制
+- 多线程
+- 任务调度
+- 过滤器、监听器、拦截器
+- AOP
