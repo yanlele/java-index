@@ -32,6 +32,9 @@
 ### 19.08.02
 - [docker启动redis](https://blog.csdn.net/occultskyrong/article/details/85199926)
 
+### 19.08.04
+- [Lambdas(二)学习怎样去使用lambda表达式](http://ifeve.com/java8-lambdas-2/)
+
 
 ### 经典待研究项目
 - [SpringBoot-Shiro-Vue](https://github.com/Heeexy/SpringBoot-Shiro-Vue)
