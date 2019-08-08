@@ -35,6 +35,27 @@
 ### 19.08.04
 - [Lambdas(二)学习怎样去使用lambda表达式](http://ifeve.com/java8-lambdas-2/)
 
+### 19.08.05
+- [Java中Array、List、ArrayList的区别](https://blog.csdn.net/wiidi/article/details/82662965)
+- [ArrayList 类](https://blog.csdn.net/ftell/article/details/80826235)
+- [LinkedList的原理及应用](https://baijiahao.baidu.com/s?id=1598633392064956200&wfr=spider&for=pc)
+- [HashSet简单讲解](https://blog.csdn.net/refusing/article/details/80617783)
+- [java集合——HashSet的用法](https://blog.csdn.net/tingzhiyi/article/details/52152487)
+- [java集合之HashSet](https://www.cnblogs.com/zwbg/p/5906542.html)
+- [HashSet和LinkedHashSet解析](https://www.cnblogs.com/wlrhnh/p/7256969.html)
+- [LinkedHashSet](http://tool.oschina.net/uploads/apidocs/jdk-zh/java/util/LinkedHashSet.html)
+
+
+### 19.08.06
+- [使用FastJson对JSON字符串、JSON对象及JavaBean之间的相互转换](https://blog.csdn.net/xuforeverlove/article/details/80842148)
+- [fastjson详解](https://www.jianshu.com/p/eaeaa5dce258)
+- [Json详解以及fastjson使用教程](https://blog.csdn.net/srj1095530512/article/details/82529759)
+
+
+### 19.08.08
+- [一文让你彻底理解 Java HashMap 和 ConcurrentHashMap](https://www.jianshu.com/p/bbcf413b8332)
+- [java中HashMap原理](https://baijiahao.baidu.com/s?id=1618550070727689060&wfr=spider&for=pc)
+
 
 ### 经典待研究项目
 - [SpringBoot-Shiro-Vue](https://github.com/Heeexy/SpringBoot-Shiro-Vue)
