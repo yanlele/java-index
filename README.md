@@ -57,6 +57,14 @@
 - [java中HashMap原理](https://baijiahao.baidu.com/s?id=1618550070727689060&wfr=spider&for=pc)
 
 
+### 19.08.16
+- [学完这100多技术，能当架构师么？](https://juejin.im/post/5d5375baf265da03b2152f3d)
+
+
+### 19.08.21
+- [Spring Boot 2.0 整合 FreeMarker 模板引擎](https://www.cnblogs.com/xingyunblog/p/8746542.html)
+
+
 ### 经典待研究项目
 - [SpringBoot-Shiro-Vue](https://github.com/Heeexy/SpringBoot-Shiro-Vue)
 - [用springboot + springmvc + mybatis + maven搭建成框架,基于Jersey, Swagger,SwaggerUi的restful API](https://github.com/zhaopei8948/springboot)
@@ -67,6 +75,9 @@
 - [基于Spring Boot 和 WxJava 实现的微信公众号Java后端Demo](https://github.com/binarywang/weixin-java-mp-demo-springboot)
 - [mall项目是一套电商系统](https://github.com/macrozheng/mall)
 
+
+### 博客篇
+- [尚硅谷 SpringBoot 视频教学源码学习](https://github.com/cyhbyw/springBoot_atguigu)
 
 ### 工具篇
 - [mybatis-generator界面工具，让你生成代码更简单更快捷](https://github.com/zouzg/mybatis-generator-gui)
