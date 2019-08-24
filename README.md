@@ -82,6 +82,8 @@
 ### 工具篇
 - [mybatis-generator界面工具，让你生成代码更简单更快捷](https://github.com/zouzg/mybatis-generator-gui)
 
+### 采坑记录
+
 ### 待解决问题
 - 表单验证
 - header、获取参数、json入参
