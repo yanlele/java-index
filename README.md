@@ -83,6 +83,9 @@
 - [mybatis-generator界面工具，让你生成代码更简单更快捷](https://github.com/zouzg/mybatis-generator-gui)
 
 ### 采坑记录
+- [springboot整合mybatis mapper注入时显示could not autowire的解决](https://blog.csdn.net/qq_21853607/article/details/72802080)
+
+
 
 ### 待解决问题
 - 表单验证
