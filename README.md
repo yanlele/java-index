@@ -65,6 +65,10 @@
 - [Spring Boot 2.0 整合 FreeMarker 模板引擎](https://www.cnblogs.com/xingyunblog/p/8746542.html)
 
 
+### 19.08.24
+- [SpringBoot2.0.3 Redis缓存 @Cacheable、@CacheEvict、@CachePut](https://blog.csdn.net/u010588262/article/details/81003493)
+
+
 ### 经典待研究项目
 - [SpringBoot-Shiro-Vue](https://github.com/Heeexy/SpringBoot-Shiro-Vue)
 - [用springboot + springmvc + mybatis + maven搭建成框架,基于Jersey, Swagger,SwaggerUi的restful API](https://github.com/zhaopei8948/springboot)
