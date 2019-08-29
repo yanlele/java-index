@@ -68,6 +68,11 @@
 ### 19.08.24
 - [SpringBoot2.0.3 Redis缓存 @Cacheable、@CacheEvict、@CachePut](https://blog.csdn.net/u010588262/article/details/81003493)
 
+### 19.08.29
+- [【Springboot】Springboot整合Thymeleaf模板引擎](https://www.cnblogs.com/weknow619/p/8323497.html)
+- [SpringBoot Thymeleaf使用教程](https://www.jianshu.com/p/908b48b10702)
+- [Thymeleaf 的基本用法](https://segmentfault.com/a/1190000017563310?utm_source=tag-newest)
+
 
 ### 经典待研究项目
 - [SpringBoot-Shiro-Vue](https://github.com/Heeexy/SpringBoot-Shiro-Vue)
