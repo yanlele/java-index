@@ -57,6 +57,23 @@
 - [java中HashMap原理](https://baijiahao.baidu.com/s?id=1618550070727689060&wfr=spider&for=pc)
 
 
+### 19.08.16
+- [学完这100多技术，能当架构师么？](https://juejin.im/post/5d5375baf265da03b2152f3d)
+
+
+### 19.08.21
+- [Spring Boot 2.0 整合 FreeMarker 模板引擎](https://www.cnblogs.com/xingyunblog/p/8746542.html)
+
+
+### 19.08.24
+- [SpringBoot2.0.3 Redis缓存 @Cacheable、@CacheEvict、@CachePut](https://blog.csdn.net/u010588262/article/details/81003493)
+
+### 19.08.29
+- [【Springboot】Springboot整合Thymeleaf模板引擎](https://www.cnblogs.com/weknow619/p/8323497.html)
+- [SpringBoot Thymeleaf使用教程](https://www.jianshu.com/p/908b48b10702)
+- [Thymeleaf 的基本用法](https://segmentfault.com/a/1190000017563310?utm_source=tag-newest)
+
+
 ### 经典待研究项目
 - [SpringBoot-Shiro-Vue](https://github.com/Heeexy/SpringBoot-Shiro-Vue)
 - [用springboot + springmvc + mybatis + maven搭建成框架,基于Jersey, Swagger,SwaggerUi的restful API](https://github.com/zhaopei8948/springboot)
@@ -68,8 +85,16 @@
 - [mall项目是一套电商系统](https://github.com/macrozheng/mall)
 
 
+### 博客篇
+- [尚硅谷 SpringBoot 视频教学源码学习](https://github.com/cyhbyw/springBoot_atguigu)
+
 ### 工具篇
 - [mybatis-generator界面工具，让你生成代码更简单更快捷](https://github.com/zouzg/mybatis-generator-gui)
+
+### 采坑记录
+- [springboot整合mybatis mapper注入时显示could not autowire的解决](https://blog.csdn.net/qq_21853607/article/details/72802080)
+
+
 
 ### 待解决问题
 - 表单验证
