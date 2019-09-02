@@ -3,38 +3,36 @@ package com.yanle.mybatis.repository;
 import com.yanle.mybatis.entity.User;
 import com.yanle.mybatis.mapper.UserMapper;
 import org.apache.ibatis.session.SqlSession;
+import org.springframework.beans.factory.annotation.Autowired;
 
 import java.util.List;
 
-public class UserRepository implements UserMapper {
-    public SqlSession sqlSession;
-
-    public UserRepository(SqlSession sqlSession) {
-        this.sqlSession = sqlSession;
-    }
+public class UserRepository implements UserMapper{
+    @Autowired
+    private UserMapper userMapper;
 
     @Override
     public User queryUserById(String id) {
-        return this.sqlSession.selectOne("UserMapper.queryUserById", id);
+        return userMapper.queryUserById(id);
     }
 
     @Override
     public List<User> queryUserAll() {
-        return this.sqlSession.selectList("UserMapper.queryUserAll");
+        return userMapper.queryUserAll();
     }
 
     @Override
     public void insertUser(User user) {
-        this.sqlSession.insert("UserMapper.insertUser", user);
+        userMapper.insertUser(user);
     }
 
     @Override
     public void updateUser(User user) {
-        this.sqlSession.update("UserMapper.updateUser", user);
+        userMapper.updateUser(user);
     }
 
     @Override
     public void deleteUser(String id) {
-        this.sqlSession.delete("UserMapper.deleteUser", id);
+        userMapper.deleteUser(id);
     }
 }
