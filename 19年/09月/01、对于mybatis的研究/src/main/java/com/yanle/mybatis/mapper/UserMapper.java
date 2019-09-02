@@ -5,7 +5,7 @@ import com.yanle.mybatis.entity.User;
 import java.util.List;
 
 public interface UserMapper {
-    public User queryUserById(String id);
+    public User queryUserById(Integer id);
 
     public List<User> queryUserAll();
 

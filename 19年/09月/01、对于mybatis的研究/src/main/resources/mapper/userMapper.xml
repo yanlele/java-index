@@ -4,18 +4,32 @@
         "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
 
 <mapper namespace="com.yanle.mybatis.mapper.UserMapper">
-    <select id="queryUserById" resultType="com.yanle.mybatis.entity.User">
+    <resultMap id="baseResultMap" type="com.yanle.mybatis.entity.User">
+        <id column="id" property="id"/>
+        <id column="user_name" property="userName"/>
+        <id column="password" property="password"/>
+        <id column="name" property="name"/>
+        <id column="age" property="age"/>
+        <id column="birthday" property="birthday"/>
+        <id column="sex" property="sex"/>
+        <id column="updated" property="updated"/>
+        <id column="created" property="created"/>
+    </resultMap>
+
+    <select id="queryUserById" resultMap="baseResultMap">
         select
-        user.id as id,
-        user.user_name as userName,
-        user.password as password,
-        user.name as name,
-        user.age as age,
-        user.birthday as birthday,
-        user.created as created,
-        user.updated as updated,
-        from SELECT tb_user user
-        where tb_user.id = #{id}
+           id,
+           user_name,
+           password,
+           name,
+           age,
+           birthday,
+           sex,
+           created,
+           updated
+       from
+           tb_user
+       where id = #{id};
     </select>
 
     <select id="queryUserAll" resultType="com.yanle.mybatis.entity.User">
@@ -59,7 +73,7 @@
         (id=#{id})
     </update>
 
-    <delete id="deleteUser" >
+    <delete id="deleteUser">
         delete from tb_user where id=#{id}
     </delete>
 </mapper>
