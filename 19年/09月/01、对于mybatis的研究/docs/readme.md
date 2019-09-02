@@ -1,5 +1,38 @@
 ## 对于mybatis的研究
 
+### springboot 接入mybatis
+
+1、加入依赖
+```xml
+<dependency>
+    <groupId>mysql</groupId>
+    <artifactId>mysql-connector-java</artifactId>
+</dependency>
+
+<dependency>
+    <groupId>org.mybatis.spring.boot</groupId>
+    <artifactId>mybatis-spring-boot-starter</artifactId>
+    <version>1.3.2</version>
+</dependency>
+```
+
+2、添加mapper扫描路径                  
+在application 启动项上添加
+```java
+@SpringBootApplication
+@MapperScan(basePackages = "com.yanle.mybatis.mapper")
+public class Application {
+	public static void main(String[] args) {
+		SpringApplication.run(Application.class, args);
+	}
+}
+```
+
+3、添加映射关系: 查看 `entity/User.java`
+
+4、添加mapper文件： 查看 `mapper/UserMapper.java`
+
+5、添加xml 文件： 查看 `sources/mapper/userMapper.xml`
 
 ```mysql
 create database if not exists mybatisdemo;
@@ -29,6 +62,8 @@ VALUES ('hj', '123456', '静静', '22', '1', '1993-09-05', sysdate(), sysdate())
 
 select * from tb_user;
 ```
+
+
 
 
 
