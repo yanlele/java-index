@@ -1,8 +1,6 @@
 ## 对于mybatis的研究
 
 
-- [Mybatis教程-实战看这一篇就够了](https://blog.csdn.net/hellozpc/article/details/80878563)
-
 ```mysql
 create database if not exists mybatisdemo;
 
@@ -31,3 +29,13 @@ VALUES ('hj', '123456', '静静', '22', '1', '1993-09-05', sysdate(), sysdate())
 
 select * from tb_user;
 ```
+
+
+
+
+### 参考文章
+- [Mybatis教程-实战看这一篇就够了](https://blog.csdn.net/hellozpc/article/details/80878563)
+- [Mybatis教程-实战看这一篇就够了](https://blog.csdn.net/hellozpc/article/details/80878563)
+- [MyBatis 快速入门和重点详解](https://blog.csdn.net/lj1314ailj/article/details/79712305)
+- [mybatis mybatis-generator 代码自动生成工具](https://blog.csdn.net/w410589502/article/details/70756764)
+- [MyBatis代码生成器——MyBatis Generator](https://blog.csdn.net/qq407388356/article/details/79478154)
