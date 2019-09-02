@@ -16,20 +16,18 @@
         <id column="created" property="created"/>
     </resultMap>
 
-    <select id="queryUserById" resultMap="baseResultMap">
+    <select id="queryUserById" resultType="com.yanle.mybatis.entity.User">
         select
-           id,
-           user_name,
-           password,
-           name,
-           age,
-           birthday,
-           sex,
-           created,
-           updated
-       from
-           tb_user
-       where id = #{id};
+        id as id,
+        user_name as userName,
+        password as password,
+        name as name,
+        age as age,
+        birthday as birthday,
+        created as created,
+        updated as updated
+        from tb_user
+        where id = #{id}
     </select>
 
     <select id="queryUserAll" resultType="com.yanle.mybatis.entity.User">
