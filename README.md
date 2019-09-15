@@ -83,6 +83,7 @@
 
 ### 19.09.15
 - [springboot集成mybatis](./19年/08月/06、springboot集成mybatis/06、springboot集成mybatis.md)
+- [SpringBoot注解全家桶](./19年/10月/01、SpringBoot注解全家桶/01、SpringBoot注解全家桶.md)
 
 
 ### 经典待研究项目
