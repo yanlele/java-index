@@ -82,7 +82,7 @@
 - [MyBatis代码生成器——MyBatis Generator](https://blog.csdn.net/qq407388356/article/details/79478154)
 
 ### 19.09.15
-- [springboot整合mybatis](https://www.cnblogs.com/hts-technology/p/8716085.html)
+- [springboot集成mybatis](./19年/08月/06、springboot集成mybatis/06、springboot集成mybatis.md)
 
 
 ### 经典待研究项目
