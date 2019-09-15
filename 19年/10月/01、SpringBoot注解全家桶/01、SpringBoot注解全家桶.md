@@ -101,6 +101,20 @@ public class UserController{
 - @Repository注解也是@Component注解的延伸，与@Component注解一样，被此注解标注的类会被Spring自动管理起来，@Repository注解用于标注DAO层的数据持久化类。
 
 
+### Spring Dependency Inject 与 Bean Scops注解
+
+#### `@DependsOn`
+- @DependsOn注解可以配置Spring IoC容器在初始化一个Bean之前，先初始化其他的Bean对象。
+
+#### `@Bean`
+- @Bean注解主要的作用是告知Spring，被此注解所标注的类将需要纳入到Bean管理工厂中。
+- @Bean注解的用法很简单，在这里，着重介绍@Bean注解中initMethod和destroyMethod的用法。
+
+#### `@Scope`
+- @Scope注解可以用来定义@Component标注的类的作用范围以及@Bean所标记的类的作用范围。
+- @Scope所限定的作用范围有：singleton、prototype、request、session、globalSession或者其他的自定义范围。
+- 当@Scope的作用范围设置成Singleton时，被此注解所标注的类只会被Spring IoC容器初始化一次。
+
 
 
 
