@@ -44,9 +44,25 @@ public class UserController{
 - `@ResponseBody`注解只能用在被`@Controller`注解标记的类中。
 - `@RestController`相当于是`@Controller和@ResponseBody`的组合注解。
 
+#### `@ExceptionHandler`
+- @ExceptionHander注解用于标注处理特定类型异常类所抛出异常的方法。
+- 当控制器中的方法抛出异常时，Spring会自动捕获异常，并将捕获的异常信息传递给被@ExceptionHandler标注的方法。
+
+#### `@ResponseStatus`
+- @ResponseStatus注解可以标注请求处理方法。
+- 使用此注解，可以指定响应所需要的HTTP STATUS。特别地，我们可以使用HttpStauts类对该注解的value属性进行赋值。
+
+#### `@PathVariable`
+- @PathVariable注解是将方法中的参数绑定到请求URI中的模板变量上。
+- 可以通过@RequestMapping注解来指定URI的模板变量，然后使用@PathVariable注解将方法中的参数绑定到模板变量上。
+- 特别地，@PathVariable注解允许我们使用value或name属性来给参数取一个别名。
+- 模板变量名需要使用“{ }”进行包裹，如果方法的参数名与URI模板变量名一致，则在@PathVariable中就可以省略别名的定义。
 
 
-
+#### @RequestParam
+- @RequestParam注解用于将方法的参数与Web请求的传递的参数进行绑定。
+- @RequestParam可以轻松的访问HTTP请求参数的值。
+- 如果传递的参数为空，还可以通过`defaultValue`设置一个默认值。
 
 
 
