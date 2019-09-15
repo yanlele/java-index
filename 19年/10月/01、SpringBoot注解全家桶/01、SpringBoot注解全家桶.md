@@ -116,6 +116,15 @@ public class UserController{
 - 当@Scope的作用范围设置成Singleton时，被此注解所标注的类只会被Spring IoC容器初始化一次。
 
 
+### 容器配置注解
+
+#### `@Autowired`
+- @Autowired注解用于标记Spring将要解析和注入的依赖项。此注解可以作用在构造函数、字段和setter方法上。
+
+
+......
+
+
 
 
 
