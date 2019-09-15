@@ -59,10 +59,34 @@ public class UserController{
 - 模板变量名需要使用“{ }”进行包裹，如果方法的参数名与URI模板变量名一致，则在@PathVariable中就可以省略别名的定义。
 
 
-#### @RequestParam
+#### `@RequestParam`
 - @RequestParam注解用于将方法的参数与Web请求的传递的参数进行绑定。
 - @RequestParam可以轻松的访问HTTP请求参数的值。
 - 如果传递的参数为空，还可以通过`defaultValue`设置一个默认值。
+
+#### `@Controller`
+- @Controller是@Component注解的一个延伸，Spring会自动扫描并配置被该注解标注的类。
+
+
+#### `@RestController`
+- @RestController是在Spring 4.0开始引入的，这是一个特定的控制器注解。
+- 相当于@Controller和@ResponseBody的快捷方式。
+
+
+#### `@ModelAttribute`
+- 通过此注解，可以通过模型索引名称来访问已经存在于控制器中的model。
+- 如果参数名与模型具有相同的名字，则不必指定索引名称
+- 特别地，如果使用@ModelAttribute对方法进行标注，Spring会将方法的返回值绑定到具体的Model上。
+
+
+#### `@CrossOrigin`
+- @CrossOrigin注解将为请求处理类或请求处理方法提供跨域调用支持。
+
+
+
+#### `@InitBinder`
+- @InitBinder注解用于标注初始化WebDataBinider的方法，该方法用于对Http请求传递的表单数据进行处理，如时间格式化、字符串处理等。
+
 
 
 
