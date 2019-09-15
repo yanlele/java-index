@@ -121,12 +121,46 @@ public class UserController{
 #### `@Autowired`
 - @Autowired注解用于标记Spring将要解析和注入的依赖项。此注解可以作用在构造函数、字段和setter方法上。
 
-
 ......
 
 
+### Spring Boot注解
+
+#### `@SpringBootApplication`
+- @SpringBootApplication注解是一个快捷的配置注解，在被它标注的类中，可以定义一个或多个Bean，并自动触发自动配置Bean和自动扫描组件。
+- 此注解相当于@Configuration、@EnableAutoConfiguration和@ComponentScan的组合。
+
+#### `@EnableAutoConfiguration`
+- @EnableAutoConfiguration注解用于通知Spring，根据当前类路径下引入的依赖包，自动配置与这些依赖包相关的配置项。
 
 
+#### `@ConditionalOnClass与@ConditionalOnMissingClass`
+- 这两个注解属于类条件注解，它们根据是否存在某个类作为判断依据来决定是否要执行某些配置。下面是一个简单的示例代码：
+```java
+@Configuration
+@ConditionalOnClass(DataSource.class)
+class MySQLAutoConfiguration {
+ //...
+}
+```
+
+
+#### `@ConditionalOnBean与@ConditionalOnMissingBean`
+- 这两个注解属于对象条件注解，根据是否存在某个对象作为依据来决定是否要执行某些配置方法。
+```java
+@Bean
+@ConditionalOnBean(name="dataSource")
+LocalContainerEntityManagerFactoryBean entityManagerFactory(){
+ //...
+}
+@Bean
+@ConditionalOnMissingBean
+public MyBean myBean(){
+ //...
+}
+```
+
+其他的略...............
 
 
 
