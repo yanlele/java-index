@@ -81,6 +81,9 @@
 - [mybatis mybatis-generator 代码自动生成工具](https://blog.csdn.net/w410589502/article/details/70756764)
 - [MyBatis代码生成器——MyBatis Generator](https://blog.csdn.net/qq407388356/article/details/79478154)
 
+### 19.09.15
+- [springboot整合mybatis](https://www.cnblogs.com/hts-technology/p/8716085.html)
+
 
 ### 经典待研究项目
 - [SpringBoot-Shiro-Vue](https://github.com/Heeexy/SpringBoot-Shiro-Vue)
