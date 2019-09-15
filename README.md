@@ -86,6 +86,7 @@
 - [SpringBoot注解全家桶](./19年/10月/01、SpringBoot注解全家桶/01、SpringBoot注解全家桶.md)
 - [fastjson基础用法](./19年/10月/02、fastjson基础用法/02、fastjson基础用法.md)
 - [Mac上Intellij IDEA使用spring-boot热部署](https://blog.csdn.net/matrix_google/article/details/85703755)
+- [SpringBoot与PageHelper的整合示例详解](https://www.cnblogs.com/charlypage/p/11220755.html)
 
 
 ### 经典待研究项目
