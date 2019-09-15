@@ -82,12 +82,23 @@ public class UserController{
 #### `@CrossOrigin`
 - @CrossOrigin注解将为请求处理类或请求处理方法提供跨域调用支持。
 
-
-
 #### `@InitBinder`
 - @InitBinder注解用于标注初始化WebDataBinider的方法，该方法用于对Http请求传递的表单数据进行处理，如时间格式化、字符串处理等。
 
 
+### SpringBean注解
+
+#### `@ComponentScan`
+- @ComponentScan注解用于配置Spring需要扫描的被组件注解注释的类所在的包。可以通过配置其basePackages属性或者value属性来配置需要扫描的包路径。
+
+#### `@Component`
+- @Component注解用于标注一个普通的组件类，它没有明确的业务范围，只是通知Spring被此注解的类需要被纳入到Spring Bean容器中并进行管理。
+
+#### `@Service`
+- @Service注解是@Component的一个延伸（特例），它用于标注业务逻辑类。
+
+#### `@Repository`
+- @Repository注解也是@Component注解的延伸，与@Component注解一样，被此注解标注的类会被Spring自动管理起来，@Repository注解用于标注DAO层的数据持久化类。
 
 
 
