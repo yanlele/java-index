@@ -238,6 +238,32 @@ public void whenGenerateJson_thanGenerationCorrect() throws ParseException {
 ]
 ```
 
+### JSON字符串转换为Java对象
+我们可以使用 JSON.parseObject() 将 JSON 字符串转换为 Java 对象。
+```java
+class A {
+    @Test
+    public void whenJson_thanConvertToObjectCorrect() {
+        Person person = new Person(20, "John", "Doe", new Date());
+        String jsonObject = JSON.toJSONString(person);
+        Person newPerson = JSON.parseObject(jsonObject, Person.class);
+         
+        assertEquals(newPerson.getAge(), 0); // 如果我们设置系列化为 false
+        assertEquals(newPerson.getFullName(), listOfPersons.get(0).getFullName());
+    }
+}
+```
+
+`@JSONField deserialize` 可选项可以指定字段不反序列化。
+```
+@JSONField(name = "DATE OF BIRTH", deserialize=false)
+private Date dateOfBirth;
+
+// 结果
+Person [age=20, fullName=John Doe, dateOfBirth=null]
+```
+
+
 
 
 
