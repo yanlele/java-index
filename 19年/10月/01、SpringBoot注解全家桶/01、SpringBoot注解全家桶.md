@@ -9,7 +9,6 @@
 - consume:设定在HTTP请求正文中允许使用的媒体类型
 - product:在HTTP响应体中允许使用的媒体类型
 
-
 #### `@RequestBody`
 ```java
 @RequestController
@@ -35,6 +34,30 @@ public class UserController{
 #### `@PatchMapping`
 
 #### `@ControllerAdvice`
+- 是@Component注解的一个延伸注解，Spring会自动扫描并检测被
+- 需要和 `@ExceptionHandler、@InitBinder以及@ModelAttribute` 注解搭配使用，主要是用来处理控制器所抛出的异常信息。
+- 我们需要定义一个被 `@ControllerAdvice` 所标注的类，在该类中，定义一个用于处理具体异常的方法，并使用 `@ExceptionHandler` 注解进行标记
+- 可以使用`@InitBinder`在类中进行全局的配置，还可以使用`@ModelAttribute`配置与视图相关的参数                              
+![dmeo1](https://mmbiz.qpic.cn/mmbiz_png/oTKHc6F8tsh88UVu8O3FqTRicNRD2eWVJibibt00sA4vQ9nX0pzMyZyNbfGPMicibNeYBfvOkIEXia4I9bME0EkcByCA/640?wxfrom=5&wx_lazy=1&wx_co=1)
+
+#### `@ResponseBody`
+- `@ResponseBody`注解只能用在被`@Controller`注解标记的类中。
+- `@RestController`相当于是`@Controller和@ResponseBody`的组合注解。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ### 参考文章
