@@ -95,7 +95,7 @@ public class Event {
 
 参考文章
 - [springboot整合mybatis](https://www.cnblogs.com/hts-technology/p/8716085.html)
-
+- [Mybatis 传入多个参数查询数据 (3种方法)](https://blog.csdn.net/zhw0596/article/details/81482770)
 
 
 

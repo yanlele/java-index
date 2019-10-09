@@ -76,10 +76,6 @@
 ### 19.09.02
 - [Spring Data JPA](https://blog.csdn.net/qq_42806915/article/details/82707783)
 - [JPA](https://blog.csdn.net/lvhaoguang0/article/details/85833273)
-- [Mybatis教程-实战看这一篇就够了](https://blog.csdn.net/hellozpc/article/details/80878563)
-- [MyBatis 快速入门和重点详解](https://blog.csdn.net/lj1314ailj/article/details/79712305)
-- [mybatis mybatis-generator 代码自动生成工具](https://blog.csdn.net/w410589502/article/details/70756764)
-- [MyBatis代码生成器——MyBatis Generator](https://blog.csdn.net/qq407388356/article/details/79478154)
 
 ### 19.09.15
 - [springboot集成mybatis](./19年/08月/06、springboot集成mybatis/06、springboot集成mybatis.md)
