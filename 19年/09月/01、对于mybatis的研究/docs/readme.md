@@ -73,3 +73,6 @@ select * from tb_user;
 - [MyBatis 快速入门和重点详解](https://blog.csdn.net/lj1314ailj/article/details/79712305)
 - [mybatis mybatis-generator 代码自动生成工具](https://blog.csdn.net/w410589502/article/details/70756764)
 - [MyBatis代码生成器——MyBatis Generator](https://blog.csdn.net/qq407388356/article/details/79478154)
+- [PageHelper查询结果排序](https://blog.csdn.net/qq_36850813/article/details/95178080)
+- [PageHelper 排序踩坑记录](https://www.jianshu.com/p/c5fa441f6066)
+

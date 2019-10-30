@@ -76,10 +76,6 @@
 ### 19.09.02
 - [Spring Data JPA](https://blog.csdn.net/qq_42806915/article/details/82707783)
 - [JPA](https://blog.csdn.net/lvhaoguang0/article/details/85833273)
-- [Mybatis教程-实战看这一篇就够了](https://blog.csdn.net/hellozpc/article/details/80878563)
-- [MyBatis 快速入门和重点详解](https://blog.csdn.net/lj1314ailj/article/details/79712305)
-- [mybatis mybatis-generator 代码自动生成工具](https://blog.csdn.net/w410589502/article/details/70756764)
-- [MyBatis代码生成器——MyBatis Generator](https://blog.csdn.net/qq407388356/article/details/79478154)
 
 ### 19.09.15
 - [springboot集成mybatis](./19年/08月/06、springboot集成mybatis/06、springboot集成mybatis.md)
@@ -88,6 +84,12 @@
 - [Mac上Intellij IDEA使用spring-boot热部署](https://blog.csdn.net/matrix_google/article/details/85703755)
 - [SpringBoot与PageHelper的整合示例详解](https://www.cnblogs.com/charlypage/p/11220755.html)
 
+### 19.10.13
+- Java SpringBoot打包和部署
+    - [SpringBoot项目如何进行打包部署](https://www.cnblogs.com/springboot/p/8729405.html)
+    - [SpringBoot 部署 docker 打包镜像](https://www.cnblogs.com/yi1036943655/p/9879464.html)
+    - [「Spring Boot」 Docker打包镜像](https://blog.csdn.net/simpledate/article/details/84022361)
+    - [手动将spring-boot工程打包到docker中运行](https://blog.csdn.net/wuqingbin/article/details/80388390)
 
 ### 经典待研究项目
 - [SpringBoot-Shiro-Vue](https://github.com/Heeexy/SpringBoot-Shiro-Vue)
