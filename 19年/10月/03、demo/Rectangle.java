@@ -2,14 +2,20 @@ public class Rectangle {
     private Double width;
     private Double height;
     private String color;
-    private static int timer = 0;
 
-    private Double getArea() {
+    public Double getArea() {
         return this.height * this.width;
     }
 
+    public Rectangle() {
+    }
+
+    public Rectangle(Double width, Double height) {
+        this.width = width;
+        this.height = height;
+    }
+
     Rectangle(Double width, Double height, String color) {
-        Rectangle.timer++;
         this.width = width;
         this.height = height;
         this.color = color;
@@ -37,9 +43,5 @@ public class Rectangle {
 
     public void setColor(String color) {
         this.color = color;
-    }
-
-    static int getTimer() {
-        return Rectangle.timer;
     }
 }
