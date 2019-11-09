@@ -1,6 +1,6 @@
 package demo;
 
-public class ：  {
+public class Circle{
     // 半径， 默认为1
     private Double radius = 1.0;
 
