@@ -10,7 +10,7 @@ public class HourlyEmployee extends Employee {
         this.hour = hour;
     }
 
-    protected int earnings() {
+    public int earnings() {
         return this.wage * this.hour;
     }
 

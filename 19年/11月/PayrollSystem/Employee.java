@@ -1,6 +1,6 @@
 package PayrollSystem;
 
-public class Employee {
+public class Employee extends BaseEmployee {
     private String name;
     private int number;
     private MyDate birthday;
@@ -10,11 +10,6 @@ public class Employee {
         this.number = number;
         this.birthday = birthday;
     }
-
-//    public abstract int earnings();
-
-    // 生日津贴
-//    protected abstract int birthdayBouns();
 
     @Override
     public String toString() {
@@ -47,5 +42,15 @@ public class Employee {
 
     public void setBirthday(MyDate birthday) {
         this.birthday = birthday;
+    }
+
+    @Override
+    public int earnings() {
+        return 0;
+    }
+
+    @Override
+    protected int birthdayBouns() {
+        return 0;
     }
 }

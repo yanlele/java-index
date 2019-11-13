@@ -8,7 +8,7 @@ public class SalariedEmployee extends Employee {
         this.monthlySalary = monthlySalary;
     }
 
-    protected int earnings() {
+    public int earnings() {
         return monthlySalary;
     }
 
