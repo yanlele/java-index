@@ -90,6 +90,7 @@
     - [SpringBoot 部署 docker 打包镜像](https://www.cnblogs.com/yi1036943655/p/9879464.html)
     - [「Spring Boot」 Docker打包镜像](https://blog.csdn.net/simpledate/article/details/84022361)
     - [手动将spring-boot工程打包到docker中运行](https://blog.csdn.net/wuqingbin/article/details/80388390)
+    - [IDEA结合spring-boot-maven-plugin如何打jar包](https://blog.csdn.net/qq_41823385/article/details/80366766)
 
 ### 经典待研究项目
 - [SpringBoot-Shiro-Vue](https://github.com/Heeexy/SpringBoot-Shiro-Vue)
