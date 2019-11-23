@@ -1,21 +1,21 @@
 package demo7;
 
-public class NaiCha implements Base {
+public class Juice implements Base {
     private String mark;
     private String type;
 
     private double price = 10;
 
-    public NaiCha() {
+    public Juice() {
         this.price += 2;
     }
 
-    public NaiCha(String mark) {
+    public Juice(String mark) {
         this.mark = mark;
         this.price += 2;
     }
 
-    public NaiCha(String mark, String type) {
+    public Juice(String mark, String type) {
         this.mark = mark;
         this.type = type;
 
@@ -42,7 +42,6 @@ public class NaiCha implements Base {
     public void setMark(String mark) {
         this.mark = mark;
     }
-
 
     @Override
     public double computedPrice() {
