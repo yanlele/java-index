@@ -20,6 +20,5 @@ public class Index4 {
         for (Student student : students) {
             System.out.println(student.toString());
         }
-
     }
 }
