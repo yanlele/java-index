@@ -1,3 +1,5 @@
+package demo3;
+
 /**
  * 第二题
  * 使用switch 语句

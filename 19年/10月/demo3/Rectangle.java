@@ -1,3 +1,5 @@
+package demo3;
+
 public class Rectangle {
     private Double width;
     private Double height;

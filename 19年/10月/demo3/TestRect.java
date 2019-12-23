@@ -1,3 +1,5 @@
+package demo3;
+
 public class TestRect {
     public static void main(String[] args) {
         Rectangle rectangle1 = new Rectangle(10.0, 20.0, "red");

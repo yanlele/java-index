@@ -29,7 +29,9 @@ public class Index1 {
         students.add(s2);
         students.add(s3);
         students.add(s4);
+        System.out.println("-------------------");
         System.out.println(students);
+        System.out.println("-------------------");
 
         // 插入到TreeSet
         TreeSet<Student> studentTreeSet = new TreeSet<>();

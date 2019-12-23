@@ -1,3 +1,5 @@
+package demo3;
+
 /**
  * 第一题
  * 使用if...else 语句

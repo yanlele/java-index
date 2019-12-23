@@ -1,3 +1,5 @@
+package demo3;
+
 /**
  * 第三题
  * for 循环语句练习

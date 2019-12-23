@@ -1,4 +1,9 @@
+package demo3;
+
 public class MOL {
+    public MOL() {
+    }
+
     public static void main(String[] args) {
         System.out.println(MOL.mol(5));
         System.out.println(MOL.mol(5, 10));

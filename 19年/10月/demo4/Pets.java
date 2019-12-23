@@ -1,3 +1,5 @@
+package demo4;
+
 public class Pets {
     private String name;
     private Double age;
