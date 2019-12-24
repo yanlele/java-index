@@ -1,10 +1,10 @@
 package Beverage;
 public class JuHuaCha extends Beverage{
-	
+
 	public JuHuaCha(String desc){
 		description = desc;
 	}
-	
+
 	public double price(){
 		if(getCapacity() == Beverage.SMALL)
 			return 6;
@@ -12,8 +12,8 @@ public class JuHuaCha extends Beverage{
 			return 8;
 		else if(getCapacity() == Beverage.LARGE)
 			return 10;
-		else 
+		else
 			return 0;
 	}
-	
+
 }
