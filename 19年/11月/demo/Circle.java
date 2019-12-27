@@ -1,6 +1,6 @@
 package demo;
 
-public class Circle{
+public class Circle {
     // 半径， 默认为1
     private Double radius = 1.0;
 
@@ -20,7 +20,7 @@ public class Circle{
         return radius;
     }
 
-    public void setRadius(Double radius) {
+    public void setRadius(double radius) {
         this.radius = radius;
     }
 }

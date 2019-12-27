@@ -1,10 +1,18 @@
 package demo;
 
 public class Graduate extends Student {
-    public String major = "IT";
+    private String major = "IT";
 
     @Override
     public String getInfo() {
-        return "Name: " + name + ", age: " + age + ", school: " + school + ", major: " + major;
+        return "Name: " + this.getName() + ", age: " + this.getAge() + ", school: " + this.getSchool() + ", major: " + this.major;
+    }
+
+    public String getMajor() {
+        return major;
+    }
+
+    public void setMajor(String major) {
+        this.major = major;
     }
 }
