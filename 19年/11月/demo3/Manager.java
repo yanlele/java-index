@@ -8,9 +8,8 @@ public class Manager extends Employee {
         this.bonus = bonus;
     }
 
-    @Override
     public void work() {
-        this.setBonus(this.getBonus() + 1000);
+        this.bonus = this.bonus + 1000;
     }
 
     @Override
