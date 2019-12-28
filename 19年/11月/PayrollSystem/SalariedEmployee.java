@@ -12,7 +12,7 @@ public class SalariedEmployee extends Employee {
         return monthlySalary;
     }
 
-    protected int birthdayBouns() {
+    public int birthdayBouns() {
         return 0;
     }
 

@@ -1,7 +1,7 @@
 package PayrollSystem;
 
-public abstract class BaseEmployee {
-    protected abstract int earnings();
+abstract class BaseEmployee {
+    public abstract int earnings();
 
-    protected abstract int birthdayBouns();
+    public abstract int birthdayBouns();
 }

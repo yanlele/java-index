@@ -14,7 +14,7 @@ public class HourlyEmployee extends Employee {
         return this.wage * this.hour;
     }
 
-    protected int birthdayBouns() {
+    public int birthdayBouns() {
         return 0;
     }
 

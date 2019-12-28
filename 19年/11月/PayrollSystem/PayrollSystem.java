@@ -2,7 +2,7 @@ package PayrollSystem;
 
 public class PayrollSystem {
     public static Employee[] getEmployee() {
-        Employee employee[] = new Employee[7];
+        Employee[] employee = new Employee[7];
 
         employee[0] = new Employee("张三", 1, new MyDate(1997, 12, 12));
         employee[1] = new Employee("李四", 2, new MyDate(1996, 12, 12));
@@ -15,9 +15,13 @@ public class PayrollSystem {
     }
 
     public static void main(String[] args) {
-        Employee employee[] = getEmployee();
-        for (Employee employeeItem: employee) {
-            System.out.println(employeeItem.toString());
+        Employee[] employee = getEmployee();
+        for (Employee hudapang : employee) {
+            System.out.println(hudapang.toString());
         }
+
+//        for (int i = 0; i < employee.length; i++) {
+//            System.out.println(employee[i]);
+//        }
     }
 }

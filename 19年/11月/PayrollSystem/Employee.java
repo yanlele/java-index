@@ -50,7 +50,7 @@ public class Employee extends BaseEmployee {
     }
 
     @Override
-    protected int birthdayBouns() {
+    public int birthdayBouns() {
         return 0;
     }
 }
