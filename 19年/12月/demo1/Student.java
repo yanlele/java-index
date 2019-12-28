@@ -2,7 +2,7 @@ package demo1;
 
 import java.util.Objects;
 
-class Student implements Comparable<Student>{
+class Student implements Comparable<Student> {
     private String name;
     private Integer id;
     private int age;
@@ -68,9 +68,9 @@ class Student implements Comparable<Student>{
         if (this == o) return true;
         if (!(o instanceof Student)) return false;
         Student student = (Student) o;
-        return getId() == student.getId() &&
-                getAge() == student.getAge() &&
+        return getAge() == student.getAge() &&
                 getName().equals(student.getName()) &&
+                getId().equals(student.getId()) &&
                 getMajor().equals(student.getMajor());
     }
 

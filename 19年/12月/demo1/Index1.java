@@ -9,19 +9,19 @@ public class Index1 {
         Student s3 = new Student("王红", 1601040316, 17, "化工");
         Student s4 = new Student("张芳", 1604010101, 17, "材料");
 
-        List<Student> studentArrayList = new ArrayList<Student>();
-        studentArrayList.add(s1);
-        studentArrayList.add(s2);
-        studentArrayList.add(s3);
-        studentArrayList.add(s4);
+        List<Student> arrayList = new ArrayList<Student>();
+        arrayList.add(s1);
+        arrayList.add(s2);
+        arrayList.add(s3);
+        arrayList.add(s4);
 
         // 自然排序
-        Collections.sort(studentArrayList);
-        System.out.println(studentArrayList);
+        Collections.sort(arrayList);
+        System.out.println(arrayList);
 
         // 自定义排序
-        Collections.sort(studentArrayList, new MyComparator());
-        System.out.println(studentArrayList);
+        Collections.sort(arrayList, new MyComparator());
+        System.out.println(arrayList);
 
         // 插入到 hashSet
         HashSet<Student> students = new HashSet<>();
