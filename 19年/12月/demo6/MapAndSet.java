@@ -6,7 +6,6 @@ import java.util.Set;
 
 public class MapAndSet {
     public static void main(String[] args) {
-
         Map<String, String> map = new HashMap<>();
         map.put("1", "yanle");
         map.put("2", "hudie");
