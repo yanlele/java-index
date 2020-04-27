@@ -95,6 +95,11 @@
     - [「Spring Boot」 Docker打包镜像](https://blog.csdn.net/simpledate/article/details/84022361)
     - [手动将spring-boot工程打包到docker中运行](https://blog.csdn.net/wuqingbin/article/details/80388390)
     - [IDEA结合spring-boot-maven-plugin如何打jar包](https://blog.csdn.net/qq_41823385/article/details/80366766)
+    
+    
+### 20.04.28
+- [Spring Boot之Thymeleaf引用静态资源](https://blog.csdn.net/chenbetter1996/article/details/84994801)
+
 
 ### 经典待研究项目
 - [SpringBoot-Shiro-Vue](https://github.com/Heeexy/SpringBoot-Shiro-Vue)
