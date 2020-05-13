@@ -101,6 +101,10 @@
 - [Spring Boot之Thymeleaf引用静态资源](https://blog.csdn.net/chenbetter1996/article/details/84994801)
 
 
+### 20.05.13
+- 
+
+
 ### 经典待研究项目
 - [SpringBoot-Shiro-Vue](https://github.com/Heeexy/SpringBoot-Shiro-Vue)
 - [用springboot + springmvc + mybatis + maven搭建成框架,基于Jersey, Swagger,SwaggerUi的restful API](https://github.com/zhaopei8948/springboot)
@@ -110,6 +114,8 @@
 - [使用SpringBoot与shiro实现基于数据库的细粒度动态权限管理系统实例](https://github.com/coder-yqj/springboot-shiro)
 - [基于Spring Boot 和 WxJava 实现的微信公众号Java后端Demo](https://github.com/binarywang/weixin-java-mp-demo-springboot)
 - [mall项目是一套电商系统](https://github.com/macrozheng/mall)
+- [智慧云智能教育平台](https://gitee.com/zhuimengshaonian/wisdom-education)
+- [聚惠星商城](https://gitee.com/qiguliuxing/dts-shop)
 
 
 ### 博客篇
