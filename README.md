@@ -110,7 +110,7 @@
 - [基于SpringBoot + MySQL + Redis + RabbitMQ + Guava开发的高并发商品限时秒杀系统](https://github.com/zaiyunduan123/springboot-seckill)
 - [使用SpringBoot与shiro实现基于数据库的细粒度动态权限管理系统实例](https://github.com/coder-yqj/springboot-shiro)
 - [基于Spring Boot 和 WxJava 实现的微信公众号Java后端Demo](https://github.com/binarywang/weixin-java-mp-demo-springboot)
-- [mall项目是一套电商系统](https://github.com/macrozheng/mall)
+- [mall项目是一套电商系统 ** ](https://github.com/macrozheng/mall)
 - [智慧云智能教育平台](https://gitee.com/zhuimengshaonian/wisdom-education)
 - [聚惠星商城](https://gitee.com/qiguliuxing/dts-shop)
 
