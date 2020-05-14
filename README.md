@@ -101,9 +101,6 @@
 - [Spring Boot之Thymeleaf引用静态资源](https://blog.csdn.net/chenbetter1996/article/details/84994801)
 
 
-### 20.05.13
-- 
-
 
 ### 经典待研究项目
 - [SpringBoot-Shiro-Vue](https://github.com/Heeexy/SpringBoot-Shiro-Vue)
