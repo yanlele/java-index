@@ -125,6 +125,13 @@
 - [springboot整合mybatis mapper注入时显示could not autowire的解决](https://blog.csdn.net/qq_21853607/article/details/72802080)
 
 
+### 技术文章
+- [Elasticsearch快速入门，掌握这些刚刚好！](https://juejin.im/post/5e8c7d65518825736512d097)
+- [Shiro + SpringBoot 整合 JWT](https://www.jianshu.com/p/3c51832f1051)
+- [使用JWT和Spring Security保护REST API **](https://juejin.im/post/58c29e0b1b69e6006bce02f4)
+- [Spring Boot + Spring Security + JWT + MySQL构建安全认证](https://juejin.im/post/5e6cf3ab51882549112b544c)
+
+
 
 ### 待解决问题
 - 表单验证
