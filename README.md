@@ -105,6 +105,8 @@
 - [Mac上Intellij IDEA使用spring-boot热部署](https://blog.csdn.net/hzwy23/article/details/79925365)
 - [Spring Boot中使用过滤器和拦截器](https://mrbird.cc/Spring-Boot-Filter-Interceptor.html)
 - [Spring Boot AOP记录用户操作日志](https://mrbird.cc/Spring-Boot-AOP%20log.html)
+- [Spring Boot logback日志配置[转]](https://mrbird.cc/Spring-Boot-logback.html)
+- [Spring Boot 中处理跨域](https://mrbird.cc/Spring-Boot-Deal-CORS.html)
 
 
 ### 经典待研究项目
@@ -118,6 +120,7 @@
 - [mall项目是一套电商系统 ** ](https://github.com/macrozheng/mall)
 - [智慧云智能教育平台](https://gitee.com/zhuimengshaonian/wisdom-education)
 - [聚惠星商城](https://gitee.com/qiguliuxing/dts-shop)
+- [提供一套基于Spring Boot-Shiro-Vue的权限管理思路.前后端都加以控制,做到按钮/接口级别的权限 **](https://github.com/Heeexy/SpringBoot-Shiro-Vue)
 
 
 ### 博客篇
@@ -135,6 +138,8 @@
 - [Shiro + SpringBoot 整合 JWT](https://www.jianshu.com/p/3c51832f1051)
 - [使用JWT和Spring Security保护REST API **](https://juejin.im/post/58c29e0b1b69e6006bce02f4)
 - [Spring Boot + Spring Security + JWT + MySQL构建安全认证](https://juejin.im/post/5e6cf3ab51882549112b544c)
+- [Shiro + JWT + Spring Boot Restful 简易教程 *](https://github.com/Smith-Cruise/Spring-Boot-Shiro)
+- [循序渐进，学习Spring **](https://github.com/wuyouzhuguli/SpringAll)
 
 
 
