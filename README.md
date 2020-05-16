@@ -109,6 +109,10 @@
 - [Spring Boot 中处理跨域](https://mrbird.cc/Spring-Boot-Deal-CORS.html)
 
 
+### 2020.05.16
+- [@RestControllerAdvice作用及原理](https://blog.csdn.net/weixin_34128534/article/details/93324994)
+
+
 ### 经典待研究项目
 - [SpringBoot-Shiro-Vue](https://github.com/Heeexy/SpringBoot-Shiro-Vue)
 - [用springboot + springmvc + mybatis + maven搭建成框架,基于Jersey, Swagger,SwaggerUi的restful API](https://github.com/zhaopei8948/springboot)
