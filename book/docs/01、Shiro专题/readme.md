@@ -106,3 +106,39 @@ values ('admin'),
 
 </project>
 ```
+
+
+## 接入jwt
+```mysql
+create database if not exists shiro character set utf8;
+
+use shiro;
+
+create table if not exists user
+(
+    id       bigint      not null auto_increment primary key comment '主键ID',
+    username varchar(50) not null comment '用户名',
+    password varchar(50) not null comment '密码',
+    role     varchar(50) not null comment '角色'
+) character set utf8;
+
+alter table user add column permission varchar(50) comment '权限';
+alter table user add column ban int(2) comment '是否账号被锁定';
+
+
+create table if not exists role
+(
+    id   bigint      not null auto_increment primary key comment '主键ID',
+    role varchar(50) not null comment '角色'
+) character set utf8;
+
+alter table role add column permission varchar(50) comment '权限';
+
+insert into user (username, password, role)
+values ('admin', '123456', 'user'),
+       ('admin2', '123456', 'admin');
+
+insert into role (role)
+values ('admin'),
+       ('user');
+```
