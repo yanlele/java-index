@@ -150,7 +150,7 @@
 ### 待解决问题
 - 表单验证
 - header、获取参数、json入参
-- @Component/@Bean 是啥子
+- @Component/@Bean 是啥子 **
 - 错误处理机制
 - 多线程
 - 任务调度
