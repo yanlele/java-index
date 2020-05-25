@@ -112,6 +112,7 @@
 ### 2020.05.16
 - [@RestControllerAdvice作用及原理](https://blog.csdn.net/weixin_34128534/article/details/93324994)
 - [Spring Security 使用总结](https://juejin.im/post/59d5bbebf265da066c233d0e)
+- [springSecurity详解](https://www.jianshu.com/p/afe6619d9663)
 
 
 ### 经典待研究项目
