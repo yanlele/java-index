@@ -118,8 +118,6 @@
 ### 经典待研究项目
 - [SpringBoot-Shiro-Vue](https://github.com/Heeexy/SpringBoot-Shiro-Vue)
 - [用springboot + springmvc + mybatis + maven搭建成框架,基于Jersey, Swagger,SwaggerUi的restful API](https://github.com/zhaopei8948/springboot)
-- [SpringBoot系列Demo；SpringBoot、MyBatis、Redis、MySql、Kafka、RocketMQ](https://github.com/xiaour/SpringBootDemo)
-- [spring boot学习案例，方便spring boot 初学者快速掌握相关知识](https://github.com/zhangyd-c/springboot-learning)
 - [基于SpringBoot + MySQL + Redis + RabbitMQ + Guava开发的高并发商品限时秒杀系统](https://github.com/zaiyunduan123/springboot-seckill)
 - [使用SpringBoot与shiro实现基于数据库的细粒度动态权限管理系统实例](https://github.com/coder-yqj/springboot-shiro)
 - [基于Spring Boot 和 WxJava 实现的微信公众号Java后端Demo](https://github.com/binarywang/weixin-java-mp-demo-springboot)
@@ -139,7 +137,8 @@
 - [springboot整合mybatis mapper注入时显示could not autowire的解决](https://blog.csdn.net/qq_21853607/article/details/72802080)
 
 ### 教程篇
-
+- [SpringBoot系列Demo；SpringBoot、MyBatis、Redis、MySql、Kafka、RocketMQ](https://github.com/xiaour/SpringBootDemo)
+- [spring boot学习案例，方便spring boot 初学者快速掌握相关知识](https://github.com/zhangyd-c/springboot-learning)
 
 ### 专题部分
 
