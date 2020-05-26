@@ -158,6 +158,7 @@
 - [Spring Boot + Spring Security + JWT + MySQL构建安全认证](https://juejin.im/post/5e6cf3ab51882549112b544c)
 - [Shiro + JWT + Spring Boot Restful 简易教程 *](https://github.com/Smith-Cruise/Spring-Boot-Shiro)
 - [循序渐进，学习Spring **](https://github.com/wuyouzhuguli/SpringAll)
+- [不改一行 Java 代码竟然就能轻松解决敏感信息加解密](https://juejin.im/post/5e8e63d2518825736d279421)
 
 
 
