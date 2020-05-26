@@ -132,6 +132,7 @@
 
 ### 工具篇
 - [mybatis-generator界面工具，让你生成代码更简单更快捷](https://github.com/zouzg/mybatis-generator-gui)
+- [IntelliJ IDEA 常用插件一览，让效率成为习惯](https://juejin.im/post/5e904c0a51882573c66d0442)
 
 ### 采坑记录
 - [springboot整合mybatis mapper注入时显示could not autowire的解决](https://blog.csdn.net/qq_21853607/article/details/72802080)
@@ -150,13 +151,15 @@
 #### 消息队列 
 - [消息队列基础](https://juejin.im/post/5dd3ff85e51d453fe34dfcc5)
 
-
-### 技术文章
-- [Elasticsearch快速入门，掌握这些刚刚好！](https://juejin.im/post/5e8c7d65518825736512d097)
+#### 安全
 - [Shiro + SpringBoot 整合 JWT **](https://www.jianshu.com/p/3c51832f1051)
 - [使用JWT和Spring Security保护REST API](https://juejin.im/post/58c29e0b1b69e6006bce02f4)
 - [Spring Boot + Spring Security + JWT + MySQL构建安全认证](https://juejin.im/post/5e6cf3ab51882549112b544c)
 - [Shiro + JWT + Spring Boot Restful 简易教程 *](https://github.com/Smith-Cruise/Spring-Boot-Shiro)
+
+
+### 技术文章
+- [Elasticsearch快速入门，掌握这些刚刚好！](https://juejin.im/post/5e8c7d65518825736512d097)
 - [循序渐进，学习Spring **](https://github.com/wuyouzhuguli/SpringAll)
 - [不改一行 Java 代码竟然就能轻松解决敏感信息加解密](https://juejin.im/post/5e8e63d2518825736d279421)
 
