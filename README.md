@@ -141,10 +141,11 @@
 - [spring boot学习案例，方便spring boot 初学者快速掌握相关知识](https://github.com/zhangyd-c/springboot-learning)
 
 ### 专题部分
+#### 多线程与并发
+- [2020年Java多线程与并发系列](https://juejin.im/post/5e8ee367518825736d279551)
+
 #### 数据库相关
 - [千字文带你入门-MyBatis多表查询](https://juejin.im/post/5e3f728b51882549546ae3d9)
-
-
 
 #### 消息队列 
 - [消息队列基础](https://juejin.im/post/5dd3ff85e51d453fe34dfcc5)
