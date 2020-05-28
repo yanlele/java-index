@@ -106,6 +106,7 @@
 - [Shiro + JWT + Spring Boot Restful 简易教程 *](https://github.com/Smith-Cruise/Spring-Boot-Shiro)
 - [Spring Security 使用总结](https://juejin.im/post/59d5bbebf265da066c233d0e)
 - [springSecurity详解](https://www.jianshu.com/p/afe6619d9663)
+- [Spring security OAuth2 深入解析](https://juejin.im/post/5a3cbce05188252582279467)
 
 
 ### 技术文章
