@@ -142,6 +142,9 @@
 - [spring boot学习案例，方便spring boot 初学者快速掌握相关知识](https://github.com/zhangyd-c/springboot-learning)
 
 ### 专题部分
+#### 技术篇
+
+
 #### 多线程与并发
 - [2020年Java多线程与并发系列](https://juejin.im/post/5e8ee367518825736d279551)
 
@@ -156,7 +159,6 @@
 - [使用JWT和Spring Security保护REST API](https://juejin.im/post/58c29e0b1b69e6006bce02f4)
 - [Spring Boot + Spring Security + JWT + MySQL构建安全认证](https://juejin.im/post/5e6cf3ab51882549112b544c)
 - [Shiro + JWT + Spring Boot Restful 简易教程 *](https://github.com/Smith-Cruise/Spring-Boot-Shiro)
-
 
 ### 技术文章
 - [Elasticsearch快速入门，掌握这些刚刚好！](https://juejin.im/post/5e8c7d65518825736512d097)
