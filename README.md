@@ -88,19 +88,6 @@
 - [List集合的两种排序方法--自然排序和定制排序]()
 
 
-### 19.10.13
-- Java SpringBoot打包和部署
-    - [SpringBoot项目如何进行打包部署](https://www.cnblogs.com/springboot/p/8729405.html)
-    - [SpringBoot 部署 docker 打包镜像](https://www.cnblogs.com/yi1036943655/p/9879464.html)
-    - [「Spring Boot」 Docker打包镜像](https://blog.csdn.net/simpledate/article/details/84022361)
-    - [手动将spring-boot工程打包到docker中运行](https://blog.csdn.net/wuqingbin/article/details/80388390)
-    - [IDEA结合spring-boot-maven-plugin如何打jar包](https://blog.csdn.net/qq_41823385/article/details/80366766)
-    
-    
-### 20.04.28
-- [Spring Boot之Thymeleaf引用静态资源](https://blog.csdn.net/chenbetter1996/article/details/84994801)
-
-
 
 
 ### 经典待研究项目
@@ -138,6 +125,13 @@
 - [Spring Boot AOP记录用户操作日志](https://mrbird.cc/Spring-Boot-AOP%20log.html)
 - [Spring Boot logback日志配置[转]](https://mrbird.cc/Spring-Boot-logback.html)
 - [Spring Boot 中处理跨域](https://mrbird.cc/Spring-Boot-Deal-CORS.html)
+- [Spring Boot之Thymeleaf引用静态资源](https://blog.csdn.net/chenbetter1996/article/details/84994801)
+- Java SpringBoot打包和部署
+    - [SpringBoot项目如何进行打包部署](https://www.cnblogs.com/springboot/p/8729405.html)
+    - [SpringBoot 部署 docker 打包镜像](https://www.cnblogs.com/yi1036943655/p/9879464.html)
+    - [「Spring Boot」 Docker打包镜像](https://blog.csdn.net/simpledate/article/details/84022361)
+    - [手动将spring-boot工程打包到docker中运行](https://blog.csdn.net/wuqingbin/article/details/80388390)
+    - [IDEA结合spring-boot-maven-plugin如何打jar包](https://blog.csdn.net/qq_41823385/article/details/80366766)
 
 #### 多线程与并发
 - [2020年Java多线程与并发系列](https://juejin.im/post/5e8ee367518825736d279551)
