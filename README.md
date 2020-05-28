@@ -1,94 +1,4 @@
 # java-index
-### 19.07.25
-- [Maven之阿里云镜像仓库配置](https://yq.aliyun.com/articles/695269)
-- [Spring Boot学习系列](https://github.com/tengj/SpringBootDemo/tree/master)
-- [springboot（服务端接口）获取URL请求参数的几种方法](https://www.cnblogs.com/zhanglijun/p/9403483.html)
-
-
-### 19.07.26
-- [JPA @Id 和 @GeneratedValue 注解详解](https://blog.csdn.net/coding1994/article/details/79597057)
-- [Springboot-jpa Table 'sell.hibernate_sequence' doesn't exist](https://blog.csdn.net/Black_Tshirt/article/details/80170950)
-- [关于SpringDataJpa中findOne()方法报错问题](https://blog.csdn.net/lzj4423996/article/details/79437687)
-
-
-### 19.07.28
-- [关于SpringbootJPA分页 PageRequest过时的办法](https://www.cnblogs.com/igong/p/9817037.html)
-- [求两个list的交集、并集、和差集](https://blog.csdn.net/huyishero/article/details/74108019)
-- [Java 比较两个list集合并删除list集合中的元素](https://www.oschina.net/question/3736274_2284091)
-- [java 泛型详解-绝对是对泛型方法讲解最详细的](https://www.cnblogs.com/coprince/p/8603492.html)
-- [fulgens - Springboot系列文章](https://www.jianshu.com/u/34979da4bb6c)
-- [JPA之@Entity、@Table、@Column、@Id](https://www.cnblogs.com/xuwenjin/p/8830850.html)
-- [Java集合框架](https://blog.csdn.net/augfun/article/details/82323045)
-- [java常用集合及集合框架总结](https://blog.csdn.net/qq_35689573/article/details/80568983)
-- [springboot-learning-example](https://github.com/JeffLi1993/springboot-learning-example)
-- [java泛型中<?>和<T>有什么区别？](https://www.cnblogs.com/jpfss/p/9929045.html)
-- [Java 泛型方法](https://www.w3cschool.cn/java/java-generic-method.html)
-- [Java自定义泛型方法](https://blog.csdn.net/lxxiang1/article/details/81293375)
-- [springboot接收json入参](https://blog.csdn.net/HXNLYW/article/details/80776491)
-  
-### 19.08.01
-- [Java 中各种DTO，POJO 等的概念](19年/08月/02、Java%20中各种DTO，POJO%20等的概念/02、Java%20中各种DTO，POJO%20等的概念.md)
-
-### 19.08.02
-- [docker启动redis](https://blog.csdn.net/occultskyrong/article/details/85199926)
-
-### 19.08.04
-- [Lambdas(二)学习怎样去使用lambda表达式](http://ifeve.com/java8-lambdas-2/)
-
-### 19.08.05
-- [Java中Array、List、ArrayList的区别](https://blog.csdn.net/wiidi/article/details/82662965)
-- [ArrayList 类](https://blog.csdn.net/ftell/article/details/80826235)
-- [LinkedList的原理及应用](https://baijiahao.baidu.com/s?id=1598633392064956200&wfr=spider&for=pc)
-- [HashSet简单讲解](https://blog.csdn.net/refusing/article/details/80617783)
-- [java集合——HashSet的用法](https://blog.csdn.net/tingzhiyi/article/details/52152487)
-- [java集合之HashSet](https://www.cnblogs.com/zwbg/p/5906542.html)
-- [HashSet和LinkedHashSet解析](https://www.cnblogs.com/wlrhnh/p/7256969.html)
-- [LinkedHashSet](http://tool.oschina.net/uploads/apidocs/jdk-zh/java/util/LinkedHashSet.html)
-
-
-### 19.08.06
-- [使用FastJson对JSON字符串、JSON对象及JavaBean之间的相互转换](https://blog.csdn.net/xuforeverlove/article/details/80842148)
-- [fastjson详解](https://www.jianshu.com/p/eaeaa5dce258)
-- [Json详解以及fastjson使用教程](https://blog.csdn.net/srj1095530512/article/details/82529759)
-
-
-### 19.08.08
-- [一文让你彻底理解 Java HashMap 和 ConcurrentHashMap](https://www.jianshu.com/p/bbcf413b8332)
-- [java中HashMap原理](https://baijiahao.baidu.com/s?id=1618550070727689060&wfr=spider&for=pc)
-
-
-### 19.08.16
-- [学完这100多技术，能当架构师么？](https://juejin.im/post/5d5375baf265da03b2152f3d)
-
-
-### 19.08.21
-- [Spring Boot 2.0 整合 FreeMarker 模板引擎](https://www.cnblogs.com/xingyunblog/p/8746542.html)
-
-
-### 19.08.24
-- [SpringBoot2.0.3 Redis缓存 @Cacheable、@CacheEvict、@CachePut](https://blog.csdn.net/u010588262/article/details/81003493)
-
-### 19.08.29
-- [【Springboot】Springboot整合Thymeleaf模板引擎](https://www.cnblogs.com/weknow619/p/8323497.html)
-- [SpringBoot Thymeleaf使用教程](https://www.jianshu.com/p/908b48b10702)
-- [Thymeleaf 的基本用法](https://segmentfault.com/a/1190000017563310?utm_source=tag-newest)
-
-### 19.09.02
-- [Spring Data JPA](https://blog.csdn.net/qq_42806915/article/details/82707783)
-- [JPA](https://blog.csdn.net/lvhaoguang0/article/details/85833273)
-
-### 19.09.15
-- [springboot集成mybatis](./19年/08月/06、springboot集成mybatis/06、springboot集成mybatis.md)
-- [SpringBoot注解全家桶](./19年/10月/01、SpringBoot注解全家桶/01、SpringBoot注解全家桶.md)
-- [fastjson基础用法](./19年/10月/02、fastjson基础用法/02、fastjson基础用法.md)
-- [Mac上Intellij IDEA使用spring-boot热部署](https://blog.csdn.net/matrix_google/article/details/85703755)
-- [SpringBoot与PageHelper的整合示例详解](https://www.cnblogs.com/charlypage/p/11220755.html)
-
-### 19.12.07
-- [List集合的两种排序方法--自然排序和定制排序]()
-
-
-
 
 ### 经典待研究项目
 - [SpringBoot-Shiro-Vue](https://github.com/Heeexy/SpringBoot-Shiro-Vue)
@@ -115,10 +25,52 @@
 ### 教程篇
 - [SpringBoot系列Demo；SpringBoot、MyBatis、Redis、MySql、Kafka、RocketMQ](https://github.com/xiaour/SpringBootDemo)
 - [spring boot学习案例，方便spring boot 初学者快速掌握相关知识](https://github.com/zhangyd-c/springboot-learning)
+- [springboot-learning-example](https://github.com/JeffLi1993/springboot-learning-example)
+- [Spring Boot学习系列](https://github.com/tengj/SpringBootDemo/tree/master)
 
 ### 专题部分
 
-#### 技术篇
+#### 基础篇篇
+- [Maven之阿里云镜像仓库配置](https://yq.aliyun.com/articles/695269)
+- [springboot（服务端接口）获取URL请求参数的几种方法](https://www.cnblogs.com/zhanglijun/p/9403483.html)
+- [JPA @Id 和 @GeneratedValue 注解详解](https://blog.csdn.net/coding1994/article/details/79597057)
+- [Springboot-jpa Table 'sell.hibernate_sequence' doesn't exist](https://blog.csdn.net/Black_Tshirt/article/details/80170950)
+- [关于SpringDataJpa中findOne()方法报错问题](https://blog.csdn.net/lzj4423996/article/details/79437687)
+- [关于SpringbootJPA分页 PageRequest过时的办法](https://www.cnblogs.com/igong/p/9817037.html)
+- [求两个list的交集、并集、和差集](https://blog.csdn.net/huyishero/article/details/74108019)
+- [Java 比较两个list集合并删除list集合中的元素](https://www.oschina.net/question/3736274_2284091)
+- [java 泛型详解-绝对是对泛型方法讲解最详细的](https://www.cnblogs.com/coprince/p/8603492.html)
+- [fulgens - Springboot系列文章](https://www.jianshu.com/u/34979da4bb6c)
+- [JPA之@Entity、@Table、@Column、@Id](https://www.cnblogs.com/xuwenjin/p/8830850.html)
+- [Java集合框架](https://blog.csdn.net/augfun/article/details/82323045)
+- [java常用集合及集合框架总结](https://blog.csdn.net/qq_35689573/article/details/80568983)
+- [java泛型中<?>和<T>有什么区别？](https://www.cnblogs.com/jpfss/p/9929045.html)
+- [Java 泛型方法](https://www.w3cschool.cn/java/java-generic-method.html)
+- [Java自定义泛型方法](https://blog.csdn.net/lxxiang1/article/details/81293375)
+- [springboot接收json入参](https://blog.csdn.net/HXNLYW/article/details/80776491)
+- [Lambdas(二)学习怎样去使用lambda表达式](http://ifeve.com/java8-lambdas-2/)
+- [Java中Array、List、ArrayList的区别](https://blog.csdn.net/wiidi/article/details/82662965)
+- [ArrayList 类](https://blog.csdn.net/ftell/article/details/80826235)
+- [LinkedList的原理及应用](https://baijiahao.baidu.com/s?id=1598633392064956200&wfr=spider&for=pc)
+- [HashSet简单讲解](https://blog.csdn.net/refusing/article/details/80617783)
+- [java集合——HashSet的用法](https://blog.csdn.net/tingzhiyi/article/details/52152487)
+- [java集合之HashSet](https://www.cnblogs.com/zwbg/p/5906542.html)
+- [HashSet和LinkedHashSet解析](https://www.cnblogs.com/wlrhnh/p/7256969.html)
+- [LinkedHashSet](http://tool.oschina.net/uploads/apidocs/jdk-zh/java/util/LinkedHashSet.html)
+- [使用FastJson对JSON字符串、JSON对象及JavaBean之间的相互转换](https://blog.csdn.net/xuforeverlove/article/details/80842148)
+- [fastjson详解](https://www.jianshu.com/p/eaeaa5dce258)
+- [Json详解以及fastjson使用教程](https://blog.csdn.net/srj1095530512/article/details/82529759)
+- [一文让你彻底理解 Java HashMap 和 ConcurrentHashMap](https://www.jianshu.com/p/bbcf413b8332)
+- [java中HashMap原理](https://baijiahao.baidu.com/s?id=1618550070727689060&wfr=spider&for=pc)
+- [Spring Boot 2.0 整合 FreeMarker 模板引擎](https://www.cnblogs.com/xingyunblog/p/8746542.html)
+- [SpringBoot2.0.3 Redis缓存 @Cacheable、@CacheEvict、@CachePut](https://blog.csdn.net/u010588262/article/details/81003493)
+- [【Springboot】Springboot整合Thymeleaf模板引擎](https://www.cnblogs.com/weknow619/p/8323497.html)
+- [SpringBoot Thymeleaf使用教程](https://www.jianshu.com/p/908b48b10702)
+- [Thymeleaf 的基本用法](https://segmentfault.com/a/1190000017563310?utm_source=tag-newest)
+- [SpringBoot注解全家桶](./19年/10月/01、SpringBoot注解全家桶/01、SpringBoot注解全家桶.md)
+- [fastjson基础用法](./19年/10月/02、fastjson基础用法/02、fastjson基础用法.md)
+- [Mac上Intellij IDEA使用spring-boot热部署](https://blog.csdn.net/matrix_google/article/details/85703755)
+- [List集合的两种排序方法--自然排序和定制排序]()
 - [@RestControllerAdvice作用及原理](https://blog.csdn.net/weixin_34128534/article/details/93324994)
 - [Mac上Intellij IDEA使用spring-boot热部署](https://blog.csdn.net/hzwy23/article/details/79925365)
 - [Spring Boot中使用过滤器和拦截器](https://mrbird.cc/Spring-Boot-Filter-Interceptor.html)
@@ -138,6 +90,11 @@
 
 #### 数据库相关
 - [千字文带你入门-MyBatis多表查询](https://juejin.im/post/5e3f728b51882549546ae3d9)
+- [springboot集成mybatis](./19年/08月/06、springboot集成mybatis/06、springboot集成mybatis.md)
+- [SpringBoot与PageHelper的整合示例详解](https://www.cnblogs.com/charlypage/p/11220755.html)
+- [Spring Data JPA](https://blog.csdn.net/qq_42806915/article/details/82707783)
+- [JPA](https://blog.csdn.net/lvhaoguang0/article/details/85833273)
+
 
 #### 消息队列 
 - [消息队列基础](https://juejin.im/post/5dd3ff85e51d453fe34dfcc5)
@@ -155,6 +112,11 @@
 - [Elasticsearch快速入门，掌握这些刚刚好！](https://juejin.im/post/5e8c7d65518825736512d097)
 - [循序渐进，学习Spring **](https://github.com/wuyouzhuguli/SpringAll)
 - [不改一行 Java 代码竟然就能轻松解决敏感信息加解密](https://juejin.im/post/5e8e63d2518825736d279421)
+- [学完这100多技术，能当架构师么？](https://juejin.im/post/5d5375baf265da03b2152f3d)
+
+#### 其他
+- [Java 中各种DTO，POJO 等的概念](19年/08月/02、Java%20中各种DTO，POJO%20等的概念/02、Java%20中各种DTO，POJO%20等的概念.md)
+- [docker启动redis](https://blog.csdn.net/occultskyrong/article/details/85199926)
 
 
 
