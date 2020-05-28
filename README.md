@@ -101,18 +101,6 @@
 - [Spring Boot之Thymeleaf引用静态资源](https://blog.csdn.net/chenbetter1996/article/details/84994801)
 
 
-### 20.05.15
-- [Mac上Intellij IDEA使用spring-boot热部署](https://blog.csdn.net/hzwy23/article/details/79925365)
-- [Spring Boot中使用过滤器和拦截器](https://mrbird.cc/Spring-Boot-Filter-Interceptor.html)
-- [Spring Boot AOP记录用户操作日志](https://mrbird.cc/Spring-Boot-AOP%20log.html)
-- [Spring Boot logback日志配置[转]](https://mrbird.cc/Spring-Boot-logback.html)
-- [Spring Boot 中处理跨域](https://mrbird.cc/Spring-Boot-Deal-CORS.html)
-
-
-### 2020.05.16
-- [@RestControllerAdvice作用及原理](https://blog.csdn.net/weixin_34128534/article/details/93324994)
-- [Spring Security 使用总结](https://juejin.im/post/59d5bbebf265da066c233d0e)
-- [springSecurity详解](https://www.jianshu.com/p/afe6619d9663)
 
 
 ### 经典待研究项目
@@ -142,8 +130,14 @@
 - [spring boot学习案例，方便spring boot 初学者快速掌握相关知识](https://github.com/zhangyd-c/springboot-learning)
 
 ### 专题部分
-#### 技术篇
 
+#### 技术篇
+- [@RestControllerAdvice作用及原理](https://blog.csdn.net/weixin_34128534/article/details/93324994)
+- [Mac上Intellij IDEA使用spring-boot热部署](https://blog.csdn.net/hzwy23/article/details/79925365)
+- [Spring Boot中使用过滤器和拦截器](https://mrbird.cc/Spring-Boot-Filter-Interceptor.html)
+- [Spring Boot AOP记录用户操作日志](https://mrbird.cc/Spring-Boot-AOP%20log.html)
+- [Spring Boot logback日志配置[转]](https://mrbird.cc/Spring-Boot-logback.html)
+- [Spring Boot 中处理跨域](https://mrbird.cc/Spring-Boot-Deal-CORS.html)
 
 #### 多线程与并发
 - [2020年Java多线程与并发系列](https://juejin.im/post/5e8ee367518825736d279551)
@@ -159,6 +153,9 @@
 - [使用JWT和Spring Security保护REST API](https://juejin.im/post/58c29e0b1b69e6006bce02f4)
 - [Spring Boot + Spring Security + JWT + MySQL构建安全认证](https://juejin.im/post/5e6cf3ab51882549112b544c)
 - [Shiro + JWT + Spring Boot Restful 简易教程 *](https://github.com/Smith-Cruise/Spring-Boot-Shiro)
+- [Spring Security 使用总结](https://juejin.im/post/59d5bbebf265da066c233d0e)
+- [springSecurity详解](https://www.jianshu.com/p/afe6619d9663)
+
 
 ### 技术文章
 - [Elasticsearch快速入门，掌握这些刚刚好！](https://juejin.im/post/5e8c7d65518825736512d097)
