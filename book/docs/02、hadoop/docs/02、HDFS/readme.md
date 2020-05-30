@@ -117,6 +117,61 @@ Usage: hadoop fs [generic options]
 	[-usage [cmd ...]]
 ```
 
+
+#### Java api 操作
+添加依赖：
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <groupId>com.yanle</groupId>
+  <artifactId>hadoop-demo</artifactId>
+  <version>1.0</version>
+  <packaging>jar</packaging>
+
+  <name>hadoop-demo</name>
+
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <hadoop.version>2.6.0-cdh5.7.0</hadoop.version>
+  </properties>
+
+  <repositories>
+    <repository>
+      <id>cloudera</id>
+      <url>https://repository.cloudera.com/artifactory/cloudera-repos/</url>
+    </repository>
+  </repositories>
+
+
+  <dependencies>
+    <!--添加hadoop依赖-->
+    <dependency>
+      <groupId>org.apache.hadoop</groupId>
+      <artifactId>hadoop-client</artifactId>
+      <version>${hadoop.version}</version>
+    </dependency>
+
+
+    <!--添加单元测试的依赖-->
+    <dependency>
+      <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+      <version>4.10</version>
+      <scope>test</scope>
+    </dependency>
+  </dependencies>
+
+</project>
+```
+
+- 文件操作测试类
+- HDFSApp
+
+
 ### 参考文件
 - [Hadoop框架之HDFS的shell操作](https://www.cnblogs.com/hezhiyao/p/7627060.html)
 - [shell 命令操作hdfs](https://blog.csdn.net/u012957549/article/details/78787742)
