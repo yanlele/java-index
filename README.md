@@ -108,6 +108,9 @@
 - [springSecurity详解](https://www.jianshu.com/p/afe6619d9663)
 - [Spring security OAuth2 深入解析](https://juejin.im/post/5a3cbce05188252582279467)
 
+#### hadoop专题
+- [hadoop专题](./book/docs/02、hadoop/readme.md)
+
 
 ### 技术文章
 - [Elasticsearch快速入门，掌握这些刚刚好！](https://juejin.im/post/5e8c7d65518825736512d097)
@@ -115,7 +118,7 @@
 - [不改一行 Java 代码竟然就能轻松解决敏感信息加解密](https://juejin.im/post/5e8e63d2518825736d279421)
 - [学完这100多技术，能当架构师么？](https://juejin.im/post/5d5375baf265da03b2152f3d)
 
-#### 其他
+### 其他
 - [Java 中各种DTO，POJO 等的概念](19年/08月/02、Java%20中各种DTO，POJO%20等的概念/02、Java%20中各种DTO，POJO%20等的概念.md)
 - [docker启动redis](https://blog.csdn.net/occultskyrong/article/details/85199926)
 
