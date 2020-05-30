@@ -121,6 +121,7 @@
 ### 其他
 - [Java 中各种DTO，POJO 等的概念](19年/08月/02、Java%20中各种DTO，POJO%20等的概念/02、Java%20中各种DTO，POJO%20等的概念.md)
 - [docker启动redis](https://blog.csdn.net/occultskyrong/article/details/85199926)
+- [Linux安装jdk(两种方式)](https://blog.csdn.net/weixin_39984161/article/details/91447727)
 
 
 
