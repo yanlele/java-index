@@ -52,3 +52,18 @@ export JAVA_HOME=/home/vagrant/app/jdk1.8.0_161
 ```
 
 
+### 启动hdfs
+格式化文件系统-需要切换到hadoop bin 下面：  `./hadoop namenode -format`                        
+启动服务： `sudo ./start-dfs.sh`
+查看节点：               
+```
+[vagrant@centos7-hadoop-node1 sbin]$ jps
+19761 NameNode
+20040 SecondaryNameNode
+22713 Jps
+19882 DataNode
+```
+
+访问地址： `http://66.66.66.67:50070/`
+
+停止服务：`./stop-dfs.sh`
