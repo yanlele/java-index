@@ -6,10 +6,16 @@
 
 #### jdk安装
 解压 `tar -zxvf jdk-8u161-linux-x64.tar.gz -C ~/app`                      
-添加到系统变量： `~/.bash_profile`                  
+添加到系统变量： `sudo vim ~/.bash_profile`                  
 ```
-export JAVA_HOME=/home/vagrant/app/java1.8.161
-exprot PAHT=$JAVA_HOME/bin:$PATH
+PATH=$PATH:$HOME/.local/bin:$HOME/bin
+
+export PATH
+export JAVA_HOME=/home/vagrant/app/jdk1.8.0_161
+export JRE_HOME=${JAVA_HOME}/jre
+export CLASSPATH=.:${JAVA_HOME}/lib:${JRE_HOME}/lib:$CLASSPATH
+export JAVA_PATH=${JAVA_HOME}/bin:${JRE_HOME}/bin
+export PATH=$PATH:${JAVA_PATH}
 ```
 使得环境变量生效 `source ~/.bash_profile`
 验证Java是否安装成功： `java -v`
