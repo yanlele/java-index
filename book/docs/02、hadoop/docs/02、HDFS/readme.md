@@ -27,5 +27,28 @@ exprot PAHT=$JAVA_HOME/bin:$PATH
 export JAVA_HOME=/home/vagrant/app/jdk1.8.0_161
 ```
 
+单节点配置 etc/hadoop/core-site.xml:
+```
+<configuration>
+    <property>
+        <name>fs.defaultFS</name>
+        <value>hdfs://localhost:8020</value>
+    </property>
+    <property>
+        <name>hadoop.tep.dir</name>
+        <value>/home/vagrant/app/tmp</value>
+    </property>
+</configuration>
+```
+
+配置一个副本节点：etc/hadoop/hdfs-site.xml:       
+```
+<configuration>
+    <property>
+        <name>dfs.replication</name>
+        <value>1</value>
+    </property>
+</configuration>
+```
 
 
