@@ -177,6 +177,10 @@ Usage: hadoop fs [generic options]
 - 文件操作测试类
 - HDFSApp
 
+### 遇到的坑
+- [解决myeclipse中运行java代码，无法连接hadoop的问题](https://blog.csdn.net/liuzhuannianshao/article/details/78835623)
+- [java api操作远程hadoop集群](https://blog.csdn.net/lvqiuyao/article/details/73301760)
+
 
 ### 参考文件
 - [Hadoop框架之HDFS的shell操作](https://www.cnblogs.com/hezhiyao/p/7627060.html)
