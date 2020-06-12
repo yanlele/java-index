@@ -11,14 +11,14 @@
 PATH=$PATH:$HOME/.local/bin:$HOME/bin
 
 export PATH
-export JAVA_HOME=/home/vagrant/app/jdk1.8.0_161
+export JAVA_HOME=/root/app/jdk1.8.0_161
 export JRE_HOME=${JAVA_HOME}/jre
 export CLASSPATH=.:${JAVA_HOME}/lib:${JRE_HOME}/lib:$CLASSPATH
 export JAVA_PATH=${JAVA_HOME}/bin:${JRE_HOME}/bin
 export PATH=$PATH:${JAVA_PATH}
 ```
 使得环境变量生效 `source ~/.bash_profile`
-验证Java是否安装成功： `java -v`
+验证Java是否安装成功： `java -version`
 
 #### 安装SSH
 如果没有SSH， 就直接安装： `sudo yun -y install ssh`                       
