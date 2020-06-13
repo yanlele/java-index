@@ -30,7 +30,7 @@ export PATH=$PATH:${JAVA_PATH}
 配置 `hadoop_home/etc/hadoop/hadoop-env.sh` 文件 的Java home 目录位置
 ```
 #export JAVA_HOME=${JAVA_HOME}
-export JAVA_HOME=/home/vagrant/app/jdk1.8.0_161
+export JAVA_HOME=/root/app/jdk1.8.0_161
 ```
 
 单节点配置 etc/hadoop/core-site.xml:
