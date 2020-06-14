@@ -31,6 +31,7 @@
 ### 专题部分
 
 #### 基础篇篇
+- [2w字长文！硬肝一套 Java 基础面试题 **](https://juejin.im/post/5ee322996fb9a047db216f7b)
 - [Maven之阿里云镜像仓库配置](https://yq.aliyun.com/articles/695269)
 - [springboot（服务端接口）获取URL请求参数的几种方法](https://www.cnblogs.com/zhanglijun/p/9403483.html)
 - [JPA @Id 和 @GeneratedValue 注解详解](https://blog.csdn.net/coding1994/article/details/79597057)
