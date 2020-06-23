@@ -27,6 +27,7 @@
 - [spring boot学习案例，方便spring boot 初学者快速掌握相关知识](https://github.com/zhangyd-c/springboot-learning)
 - [springboot-learning-example](https://github.com/JeffLi1993/springboot-learning-example)
 - [Spring Boot学习系列](https://github.com/tengj/SpringBootDemo/tree/master)
+- [成为最好的 bestJavaer - 技术图谱](https://juejin.im/post/5ee435dff265da76c113509f)
 
 ### 专题部分
 
