@@ -96,6 +96,7 @@
 - [SpringBoot与PageHelper的整合示例详解](https://www.cnblogs.com/charlypage/p/11220755.html)
 - [Spring Data JPA](https://blog.csdn.net/qq_42806915/article/details/82707783)
 - [JPA](https://blog.csdn.net/lvhaoguang0/article/details/85833273)
+- [138 张图带你 MySQL 入门](https://juejin.im/post/5eef41b46fb9a0589567f4b8)
 
 
 #### 消息队列 
