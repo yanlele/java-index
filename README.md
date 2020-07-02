@@ -10,6 +10,7 @@
 - [智慧云智能教育平台](https://gitee.com/zhuimengshaonian/wisdom-education)
 - [聚惠星商城](https://gitee.com/qiguliuxing/dts-shop)
 - [提供一套基于Spring Boot-Shiro-Vue的权限管理思路.前后端都加以控制,做到按钮/接口级别的权限 **](https://github.com/Heeexy/SpringBoot-Shiro-Vue)
+- [yshop基于当前流行技术组合的前后端分离商城系统](https://github.com/guchengwuyue/yshopmall)
 
 
 ### 博客篇
