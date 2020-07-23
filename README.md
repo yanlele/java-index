@@ -92,6 +92,7 @@
 - [什么是RPC？](https://www.jianshu.com/p/7d6853140e13)
 - [Springboot 中@Component 跟@Bean的区别](https://blog.csdn.net/junge1545/article/details/94013608)
 - [SpringBoot系列之注解@Component VS @Bean](https://www.cnblogs.com/CreateMyself/p/12150987.html)
+- [Java中的Object和Objects](https://www.jianshu.com/p/0235759d8103)
 
 #### 多线程与并发
 - [2020年Java多线程与并发系列](https://juejin.im/post/5e8ee367518825736d279551)
