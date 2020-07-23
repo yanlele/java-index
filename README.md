@@ -93,6 +93,8 @@
 - [Springboot 中@Component 跟@Bean的区别](https://blog.csdn.net/junge1545/article/details/94013608)
 - [SpringBoot系列之注解@Component VS @Bean](https://www.cnblogs.com/CreateMyself/p/12150987.html)
 - [Java中的Object和Objects](https://www.jianshu.com/p/0235759d8103)
+- [java int和Integer的区别](https://blog.csdn.net/zjfahs/article/details/90138277)
+- [Java暗箱操作之自动装箱与拆箱](https://www.cnblogs.com/zhinengfeiyu/p/4769105.html)
 
 #### 多线程与并发
 - [2020年Java多线程与并发系列](https://juejin.im/post/5e8ee367518825736d279551)
