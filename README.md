@@ -31,6 +31,7 @@
 - [springboot-learning-example](https://github.com/JeffLi1993/springboot-learning-example)
 - [Spring Boot学习系列](https://github.com/tengj/SpringBootDemo/tree/master)
 - [成为最好的 bestJavaer - 技术图谱](https://juejin.im/post/5ee435dff265da76c113509f)
+- [spring-security-samples **](https://github.com/lenve/spring-security-samples)
 
 ### 专题部分
 
