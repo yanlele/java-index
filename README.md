@@ -1,5 +1,25 @@
 # java-index
 
+<!-- toc -->
+### 
+- [经典待研究项目](#%E7%BB%8F%E5%85%B8%E5%BE%85%E7%A0%94%E7%A9%B6%E9%A1%B9%E7%9B%AE)
+- [博客篇](#%E5%8D%9A%E5%AE%A2%E7%AF%87)
+- [工具篇](#%E5%B7%A5%E5%85%B7%E7%AF%87)
+- [采坑记录](#%E9%87%87%E5%9D%91%E8%AE%B0%E5%BD%95)
+- [教程篇](#%E6%95%99%E7%A8%8B%E7%AF%87)
+- [专题部分](#%E4%B8%93%E9%A2%98%E9%83%A8%E5%88%86)
+  * [基础篇篇](#%E5%9F%BA%E7%A1%80%E7%AF%87%E7%AF%87)
+  * [多线程与并发](#%E5%A4%9A%E7%BA%BF%E7%A8%8B%E4%B8%8E%E5%B9%B6%E5%8F%91)
+  * [数据库相关](#%E6%95%B0%E6%8D%AE%E5%BA%93%E7%9B%B8%E5%85%B3)
+  * [消息队列](#%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97)
+  * [安全](#%E5%AE%89%E5%85%A8)
+  * [hadoop专题](#hadoop%E4%B8%93%E9%A2%98)
+- [技术文章](#%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0)
+- [其他](#%E5%85%B6%E4%BB%96)
+- [待解决问题](#%E5%BE%85%E8%A7%A3%E5%86%B3%E9%97%AE%E9%A2%98)
+
+<!-- tocstop -->
+
 ### 经典待研究项目
 - [SpringBoot-Shiro-Vue](https://github.com/Heeexy/SpringBoot-Shiro-Vue)
 - [用springboot + springmvc + mybatis + maven搭建成框架,基于Jersey, Swagger,SwaggerUi的restful API](https://github.com/zhaopei8948/springboot)
@@ -16,7 +36,7 @@
 
 
 ### 博客篇
-- [尚硅谷 SpringBoot 视频教学源码学习](https://github.com/cyhbyw/springBoot_atguigu)
+
 
 ### 工具篇
 - [mybatis-generator界面工具，让你生成代码更简单更快捷](https://github.com/zouzg/mybatis-generator-gui)
@@ -26,6 +46,7 @@
 - [springboot整合mybatis mapper注入时显示could not autowire的解决](https://blog.csdn.net/qq_21853607/article/details/72802080)
 
 ### 教程篇
+- [尚硅谷 SpringBoot 视频教学源码学习](https://github.com/cyhbyw/springBoot_atguigu)
 - [SpringBoot系列Demo；SpringBoot、MyBatis、Redis、MySql、Kafka、RocketMQ](https://github.com/xiaour/SpringBootDemo)
 - [spring boot学习案例，方便spring boot 初学者快速掌握相关知识](https://github.com/zhangyd-c/springboot-learning)
 - [springboot-learning-example](https://github.com/JeffLi1993/springboot-learning-example)
