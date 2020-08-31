@@ -123,6 +123,7 @@
 
 #### 多线程与并发
 - [2020年Java多线程与并发系列](https://juejin.im/post/5e8ee367518825736d279551)
+- [2w字 + 40张图带你参透并发编程！](https://juejin.im/post/6862464169158344717)
 
 #### 数据库相关
 - [千字文带你入门-MyBatis多表查询](https://juejin.im/post/5e3f728b51882549546ae3d9)
@@ -131,6 +132,7 @@
 - [Spring Data JPA](https://blog.csdn.net/qq_42806915/article/details/82707783)
 - [JPA](https://blog.csdn.net/lvhaoguang0/article/details/85833273)
 - [138 张图带你 MySQL 入门](https://juejin.im/post/5eef41b46fb9a0589567f4b8)
+- [47 张图带你 MySQL 进阶！！！](https://juejin.im/post/6854573212920086541)
 
 
 #### 消息队列 
